@@ -4,12 +4,12 @@
     <meta charset="utf-8">
     <meta name="viewport" 
        content="width=device-width, initial-scale=1">
-    <title>CV de G. Kembellec</title>
+    <title>CV de YANG Shuo</title>
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
     <header>
-      <h1>Gérald Kembellec, Enseignant-Chercheur</h1>
+      <h1>YANG Shuo, Etudiante</h1>
     </header>
     <nav>
       <a href="index.html#formation">Mes diplômes</a>
@@ -24,13 +24,51 @@
 				<th>Langue</th><th>Niveau</th>
 			</tr>
 			<tr>
-				<td>Français</td><td>Langue maternelle</td>
+				<td>Chinois</td><td>Langue maternelle</td>
+			</tr>
+            <tr>
+				<td>Anglais</td><td>Courant</td>
+			</tr>
+            <tr>
+				<td>Français</td><td>Courant</td>
 			</tr>
 		</table>
 	  </section>
     </article>
     <footer>
-      <a href="mailto:gerald.kembellec@cnam.fr?subject=A%20propos de%20votre%20CV&body=Je%20souhaite%20vous%20recruter">Gérald, Kembellec</a>, 
-      2019, <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>.</footer>
+   
+      </nav>
+    <article>
+	  <section>
+		<h2 id="diplomes">Formation</h2>
+		<table>
+			<tr>
+				<th>Ecole</th><th>Niveau</th>
+			</tr>
+            <tr>
+				<td>Paris 1</td><td>Master</td>
+			</tr>
+            <tr>
+				<td>Université de Pékin</td><td>Licence</td>
+			</tr>
+		</table>
+	  </section>
+    </article>
+    <footer>
+  
+        </nav>
+    <article>
+	  <section>
+		<h2 id="postes">Experience Profesionnelle</h2>
+		<table>
+			<tr>
+				<th>Stage dans un centre multimédia</th>
+			</tr>
+		</table>
+	  </section>
+    </article>
+    <footer>
+      <a href="Shuo.Yang@etu.univ-paris1.fr?subject=A%20propos de%20votre%20CV&body=Je%20souhaite%20vous%20recruter">YANG,Shuo</a>, 
+      2025, <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>.</footer>
   </body>
 </html>
