@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" 
+       content="width=device-width, initial-scale=1">
+    <title>CV de G. Kembellec</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    <header>
+      <h1>Gérald Kembellec, Enseignant-Chercheur</h1>
+    </header>
+    <nav>
+      <a href="index.html#formation">Mes diplômes</a>
+      <a href="experience.html">Mes postes</a>
+	  <a href="langues.html">Langues parlées</a>
+    </nav>
+    <article>
+	  <section>
+		<h2 id="languages">Langues</h2>
+		<table>
+			<tr>
+				<th>Langue</th><th>Niveau</th>
+			</tr>
+			<tr>
+				<td>Français</td><td>Langue maternelle</td>
+			</tr>
+		</table>
+	  </section>
+    </article>
+    <footer>
+      <a href="mailto:gerald.kembellec@cnam.fr?subject=A%20propos de%20votre%20CV&body=Je%20souhaite%20vous%20recruter">Gérald, Kembellec</a>, 
+      2019, <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>.</footer>
+  </body>
+</html>
